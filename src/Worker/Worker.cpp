@@ -1,5 +1,6 @@
 #include "Worker.hpp"
 
+#include <array>
 #include <cerrno>
 #include <cstdint>
 #include <cstdio>
